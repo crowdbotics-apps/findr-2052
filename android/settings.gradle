@@ -1,0 +1,3 @@
+rootProject.name = 'findr_2052'
+
+include ':app'
